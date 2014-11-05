@@ -1,3 +1,11 @@
+name: bes_t_name
+description: Hi, This is <b>nice</b>.<br>A Jekyll theme build with minimalist blocks
+markdown: redcarpet
+pygments: true
+email: jksierra@gmail.com
+twitter: jslakro
+github: JuanSierra
+
 baseurl: /starter
 permalink: pretty
 markdown: rdiscount
